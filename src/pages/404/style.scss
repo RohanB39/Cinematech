@@ -1,0 +1,23 @@
+.pnf {
+  height: 50vh;
+  width: 100%;
+  color: white;
+  position: relative;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .pnff {
+    position: absolute;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 20vh;
+    font-size: 34px;
+    font-weight: 700;
+    background: linear-gradient(98.37deg, #f89e00 0.99%, #da2f68 100%);
+    border-radius: 20px;
+  }
+}
